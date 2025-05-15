@@ -8,10 +8,10 @@ A **machine learning** project for gender classification using features like voi
 ## **🗂 Repository Structure**  
 
 Gender-recognition/
-├── DataExplore.ipynb # Exploratory Data Analysis (EDA)
-├── neww.ipynb # Experimental approaches
-├── project.ipynb # Main implementation (4100 LOC)
-└── README.md # Project documentation
+├── DataExplore.ipynb 
+├── neww.ipynb 
+├── project.ipynb 
+└── README.md 
 
 ---
 
