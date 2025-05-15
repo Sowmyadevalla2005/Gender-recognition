@@ -5,16 +5,6 @@ A **machine learning** project for gender classification using features like voi
 
 ---
 
-## **🗂 Repository Structure**  
-
-Gender-recognition/
-├── DataExplore.ipynb 
-├── neww.ipynb 
-├── project.ipynb 
-└── README.md 
-
----
-
 ## **🚀 Quick Start**  
 1. **Clone the repository**:  
    ```bash
